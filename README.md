@@ -1,2 +1,2 @@
 # postmanTutorial
-Postman Beginner's Course - API Testing
+Test repository for "Postman Beginner's Course - API Testing"
